@@ -1,0 +1,13 @@
+# Kafka binary distribution
+kafka_2.13-4.2.0/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
